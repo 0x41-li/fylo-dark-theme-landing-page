@@ -1,4 +1,6 @@
+// section
 import Header from "./sections/header/Header";
+import Hero from "./sections/hero/Hero";
 
 // styled components
 import GlobalStyles from "./styled-components/GlobalStyles";
@@ -8,6 +10,9 @@ const App = () => {
     <>
       <GlobalStyles />
       <Header />
+      <main>
+        <Hero />
+      </main>
     </>
   );
 };

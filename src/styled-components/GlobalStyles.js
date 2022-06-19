@@ -36,6 +36,11 @@ const GlobalStyles = createGlobalStyle`
     @media screen and (min-width: 992px) {
       background: #1B2330 url(${backgroundBodyDesktop}) no-repeat top 280px center / cover;
     }
+
+    @media screen and (min-width: 1200px) {
+      background: #1B2330 url(${backgroundBodyDesktop}) no-repeat top 848px center / cover;
+    }
+
   }
 `;
 
