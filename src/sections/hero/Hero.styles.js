@@ -80,7 +80,8 @@ export const Para = styled.p`
   }
 `;
 
-export const Button = styled`
+export const Button = styled.button`
+  position: relative;
   width: 240px;
   height: 48px;
   display: block;
@@ -99,8 +100,25 @@ export const Button = styled`
 
   ${BoldRalewayFont};
 
-  &:hover {
+  overflow: hidden;
+  z-index: 1;
+
+  &::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "";
+    z-index: -1;
+    display: block;
+    width: 100%;
+    height: 100%;
     background: #8adae3;
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+
+  &:hover::before {
+    opacity: 1;
   }
 
   @media screen and (min-width: 1200px) {
