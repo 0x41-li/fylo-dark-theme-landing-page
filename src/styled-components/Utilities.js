@@ -10,6 +10,11 @@ export const BoldRalewayFont = `
 `;
 
 export const RegularOpenSansFont = `
-  font-family: "Raleway";
+  font-family: "Open Sans";
   font-weight: 400;
+`;
+
+export const BoldOpenSansFont = `
+  font-family: "OpenSans";
+  font-weight: 700;
 `;

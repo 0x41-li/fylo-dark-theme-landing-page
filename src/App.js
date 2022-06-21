@@ -1,4 +1,5 @@
 // section
+import Feedbacks from "./sections/feedbacks/Feedbacks";
 import Header from "./sections/header/Header";
 import Hero from "./sections/hero/Hero";
 import SecondSection from "./sections/second-section/SecondSection";
@@ -16,6 +17,7 @@ const App = () => {
         <Hero />
         <Services />
         <SecondSection />
+        <Feedbacks />
       </main>
     </>
   );
