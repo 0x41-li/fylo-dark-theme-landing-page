@@ -1,6 +1,7 @@
 // section
 import Header from "./sections/header/Header";
 import Hero from "./sections/hero/Hero";
+import SecondSection from "./sections/second-section/SecondSection";
 import Services from "./sections/services/Services";
 
 // styled components
@@ -14,6 +15,7 @@ const App = () => {
       <main>
         <Hero />
         <Services />
+        <SecondSection />
       </main>
     </>
   );
