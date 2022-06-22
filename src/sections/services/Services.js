@@ -45,20 +45,21 @@ const Services = () => {
             <ImageWrapper>
               <ClockSvg />
             </ImageWrapper>
-            <ServiceH2>Access your files, anywhere</ServiceH2>
+            <ServiceH2>Real-time collaboration</ServiceH2>
             <ServicePara>
-              The ability to use a smartphone, tablet, or computer to access
-              your account means your files follow you everywhere.
+              Securely share files and folders with friends, family and
+              colleagues for live collaboration. No email attachments required.
             </ServicePara>
           </ServiceBox>
           <ServiceBox>
             <ImageWrapper>
               <FoldersAndFilesSvg />
             </ImageWrapper>
-            <ServiceH2>Access your files, anywhere</ServiceH2>
+            <ServiceH2>Store any type of file</ServiceH2>
             <ServicePara>
-              The ability to use a smartphone, tablet, or computer to access
-              your account means your files follow you everywhere.
+              Whether you're sharing holidays photos or work documents, Fylo has
+              you covered allowing for all file types to be securely stored and
+              shared.
             </ServicePara>
           </ServiceBox>
         </ServicesWrapper>

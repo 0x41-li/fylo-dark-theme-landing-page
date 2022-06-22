@@ -20,7 +20,7 @@ export const Section = styled.section`
     padding: 0px;
   }
 
-  @media screen and (min-width: 576px) {
+  @media screen and (min-width: 992px) {
     margin-top: 158px;
   }
 `;
@@ -63,7 +63,6 @@ export const ImageWrapper = styled.div`
   align-items: center;
   justify-content: center;
 
-  display: block;
   margin: 0 auto;
 
   @media screen and (min-width: 1200px) {
@@ -99,7 +98,6 @@ export const ClockSvg = styled(Clock)`
   height: 53.17px;
 
   display: block;
-  margin: 0 auto;
 
   @media screen and (min-width: 1200px) {
     width: 84px;
@@ -112,7 +110,6 @@ export const FoldersAndFilesSvg = styled(FoldersAndFiles)`
   height: 48.24px;
 
   display: block;
-  margin: 0 auto;
 
   @media screen and (min-width: 1200px) {
     width: 90px;
@@ -134,6 +131,7 @@ export const ServiceH2 = styled.h2`
   @media screen and (min-width: 1200px) {
     font-size: 20px;
     line-height: 23px;
+    margin-top: 16px;
   }
 `;
 

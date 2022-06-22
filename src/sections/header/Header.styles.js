@@ -33,6 +33,11 @@ export const StyledLogo = styled(Logo)`
 export const NavUl = styled.ul`
   display: flex;
   gap: 25px;
+
+  @media screen and (min-width: 1200px) {
+    gap: 57px;
+  }
+  
 `;
 export const NavAnchor = styled.a`
   ${RegularRalewayFont};
