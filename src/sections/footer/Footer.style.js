@@ -53,17 +53,14 @@ export const FooterSecondRow = styled.div`
   }
 
   @media screen and (min-width: 992px) {
+    justify-content: space-between;
     & > * {
-      flex: 1 1 20%;
+      flex: 0 0 auto;
     }
   }
 
   @media screen and (min-width: 1200px) {
-    justify-content: space-between;
     gap: 0px;
-    & > * {
-      flex: 0 0 auto;
-    }
   }
 
   @media screen and (min-width: 1440px) {
@@ -81,14 +78,6 @@ export const ConpanyLocationWrapper = styled.div`
 
   @media screen and (min-width: 768px) {
     margin-top: 0;
-  }
-
-  @media screen and (min-width: 992px) {
-    flex: 1 1 30%;
-  }
-
-  @media screen and (min-width: 1200px) {
-    flex: 0 0 auto;
   }
 `;
 
@@ -240,8 +229,13 @@ export const SocialMediaWrapper = styled.div`
 
   margin-top: 56px;
 
+  @media screen and (min-width: 992px) {
+    flex: 0 0 100%;
+  }
+
   @media screen and (min-width: 1200px) {
     margin-top: 0;
+    flex: 0 0 auto;
   }
 
   @media screen and (min-width: 1440px) {
