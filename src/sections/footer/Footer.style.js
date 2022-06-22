@@ -21,7 +21,7 @@ export const Section = styled.footer`
   padding: 259px 28px 52px 28px;
 
   @media screen and (min-width: 576px) {
-    padding: 259px 0px 52px 0px;
+    padding: 259px 0px 53px 0px;
   }
 
   @media screen and (min-width: 1200px) {
