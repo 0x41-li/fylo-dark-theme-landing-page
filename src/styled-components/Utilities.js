@@ -15,6 +15,6 @@ export const RegularOpenSansFont = `
 `;
 
 export const BoldOpenSansFont = `
-  font-family: "OpenSans";
+  font-family: "Open Sans";
   font-weight: 700;
 `;

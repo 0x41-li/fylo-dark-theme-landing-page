@@ -13,7 +13,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    padding-bottom: 100px;
+    padding-bottom: 500px;
   }
 
   ul {
