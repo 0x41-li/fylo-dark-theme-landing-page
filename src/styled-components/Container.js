@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const Container = styled.div`
+  ${(props) => props.css};
   margin-right: auto;
   margin-left: auto;
 

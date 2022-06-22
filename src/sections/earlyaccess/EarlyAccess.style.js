@@ -30,8 +30,6 @@ export const FormBox = styled.form`
   box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.254274);
   border-radius: 9px;
 
-  
-
   margin: 0 auto;
 
   display: block;

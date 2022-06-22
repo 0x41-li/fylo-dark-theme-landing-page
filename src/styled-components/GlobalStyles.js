@@ -12,10 +12,6 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
   }
 
-  body {
-    padding-bottom: 500px;
-  }
-
   ul {
     list-style: none;
   }

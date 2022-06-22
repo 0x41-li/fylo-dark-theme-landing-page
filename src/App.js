@@ -1,6 +1,7 @@
 // section
 import EarlyAccess from "./sections/earlyaccess/EarlyAccess";
 import Feedbacks from "./sections/feedbacks/Feedbacks";
+import Footer from "./sections/footer/Footer";
 import Header from "./sections/header/Header";
 import Hero from "./sections/hero/Hero";
 import SecondSection from "./sections/second-section/SecondSection";
@@ -21,6 +22,7 @@ const App = () => {
         <Feedbacks />
         <EarlyAccess />
       </main>
+      <Footer />
     </>
   );
 };

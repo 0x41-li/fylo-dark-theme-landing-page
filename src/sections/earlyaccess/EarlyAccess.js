@@ -46,7 +46,7 @@ const EarlyAccess = () => {
   }
 
   return (
-    <Container>
+    <Container css="position: relative; z-index: 991">
       <Section>
         <FormBox onSubmit={handleSubmit} noValidate>
           <FromBoxHeading>Get early access today</FromBoxHeading>
