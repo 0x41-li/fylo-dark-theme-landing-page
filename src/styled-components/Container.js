@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 const Container = styled.div`
-  ${(props) => props.css};
   margin-right: auto;
   margin-left: auto;
 
@@ -24,6 +23,8 @@ const Container = styled.div`
   @media (min-width: 1440px) {
     width: 1280px;
   }
+
+  ${(props) => props.css};
 `;
 
 export default Container;
