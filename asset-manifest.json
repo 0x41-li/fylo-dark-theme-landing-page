@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/fylo-dark-theme-landing-page/static/js/main.1db36a4f.js",
+    "static/media/twitter-icon.svg": "/fylo-dark-theme-landing-page/static/media/twitter-icon.d2594093c8fdef40c222d15044a84e7e.svg",
+    "static/media/hero-illustration.png": "/fylo-dark-theme-landing-page/static/media/hero-illustration.4c0c40842ce745f376e8.png",
+    "static/media/second-section-illustration.png": "/fylo-dark-theme-landing-page/static/media/second-section-illustration.2c1282a78d268a5061ff.png",
+    "static/media/facebook-icon.svg": "/fylo-dark-theme-landing-page/static/media/facebook-icon.db3355c76ab666ead8643ac267a54c44.svg",
+    "static/media/instagram-icon.svg": "/fylo-dark-theme-landing-page/static/media/instagram-icon.0a99db0e23f4523e9e49282390ff8274.svg",
+    "static/media/clock.svg": "/fylo-dark-theme-landing-page/static/media/clock.5f39b6c8d3d6123a127ea853effac994.svg",
+    "static/media/folders-and-files.svg": "/fylo-dark-theme-landing-page/static/media/folders-and-files.32222a2a021fa8cc6ff0ad35bd02d124.svg",
+    "static/media/logo.svg": "/fylo-dark-theme-landing-page/static/media/logo.7d2b6a77eeba3f4de22df638847c2853.svg",
+    "static/media/footer-logo.svg": "/fylo-dark-theme-landing-page/static/media/footer-logo.03e52a5784b21ef33f49207931ac61b2.svg",
+    "static/media/phone-and-a-computer.svg": "/fylo-dark-theme-landing-page/static/media/phone-and-a-computer.92de236e5741dda57428b7fadf94116a.svg",
+    "static/media/quotes.svg": "/fylo-dark-theme-landing-page/static/media/quotes.1f28a49e50cf3bb978c14c2c0d342909.svg",
+    "static/media/security.svg": "/fylo-dark-theme-landing-page/static/media/security.73833d8ae7f12a922216726e4a734654.svg",
+    "index.html": "/fylo-dark-theme-landing-page/index.html",
+    "static/media/body-background-desktop.svg": "/fylo-dark-theme-landing-page/static/media/body-background-desktop.473b761673f51b49e729c559256f76e9.svg",
+    "static/media/phone-icon.svg": "/fylo-dark-theme-landing-page/static/media/phone-icon.996798f28db4537387ff81f9a9994782.svg",
+    "static/media/body-background-mobile.svg": "/fylo-dark-theme-landing-page/static/media/body-background-mobile.88e55b902f3432a59c0cb4841af6a1f9.svg",
+    "static/media/location-icon.svg": "/fylo-dark-theme-landing-page/static/media/location-icon.4b95d6a228f2664f198babf73a8aaf38.svg",
+    "static/media/mail-icon.svg": "/fylo-dark-theme-landing-page/static/media/mail-icon.a2a92ed0825961b423aaff9941f4a5a8.svg",
+    "static/media/arrow-right.svg": "/fylo-dark-theme-landing-page/static/media/arrow-right.5ea2d3f3c714d318d842007d2ff1296f.svg",
+    "main.1db36a4f.js.map": "/fylo-dark-theme-landing-page/static/js/main.1db36a4f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1db36a4f.js"
+  ]
+}
