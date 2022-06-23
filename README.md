@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [[Add live site URL here](https://0x41-li.github.io/fylo-dark-theme-landing-page/)](https://0x41-li.github.io/fylo-dark-theme-landing-page/)
+- Live Site URL: [https://0x41-li.github.io/fylo-dark-theme-landing-page/](https://0x41-li.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
