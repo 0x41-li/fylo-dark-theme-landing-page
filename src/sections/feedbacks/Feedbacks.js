@@ -32,7 +32,7 @@ const Feedback = () => {
               collaboration machine.
             </FeedbackBoxPara>
             <PersonWrapper>
-              <PersonImage src={satishImage} alt=""/>
+              <PersonImage src={satishImage} alt="" />
               <PersonInfoWrapper>
                 <PersonName>Satish Patel</PersonName>
                 <PersonRole>Founder &amp; CEO, Huddle</PersonRole>
