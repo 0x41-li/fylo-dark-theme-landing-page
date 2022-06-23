@@ -32,7 +32,7 @@ const Feedback = () => {
               collaboration machine.
             </FeedbackBoxPara>
             <PersonWrapper>
-              <PersonImage src={satishImage} />
+              <PersonImage src={satishImage} alt=""/>
               <PersonInfoWrapper>
                 <PersonName>Satish Patel</PersonName>
                 <PersonRole>Founder &amp; CEO, Huddle</PersonRole>
@@ -47,7 +47,7 @@ const Feedback = () => {
               collaboration machine.
             </FeedbackBoxPara>
             <PersonWrapper>
-              <PersonImage src={bruceImage} />
+              <PersonImage src={bruceImage} alt="" />
               <PersonInfoWrapper>
                 <PersonName>Bruce McKenzie</PersonName>
                 <PersonRole>Founder &amp; CEO, Huddle</PersonRole>
@@ -62,7 +62,7 @@ const Feedback = () => {
               collaboration machine.
             </FeedbackBoxPara>
             <PersonWrapper>
-              <PersonImage src={ivaImage} />
+              <PersonImage src={ivaImage} alt="" />
               <PersonInfoWrapper>
                 <PersonName>Iva Boyd</PersonName>
                 <PersonRole>Founder &amp; CEO, Huddle</PersonRole>

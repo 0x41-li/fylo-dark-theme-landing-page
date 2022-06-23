@@ -22,7 +22,7 @@ const SecondSection = () => {
     <Container>
       <Section>
         <ImageWrapper>
-          <IllustImg src={illustration} />
+          <IllustImg src={illustration} alt="" />
         </ImageWrapper>
 
         <TextWrapper>

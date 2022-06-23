@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <Container>
       <Section>
-        <Illustr src={IllustrationImage} />
+        <Illustr src={IllustrationImage} alt="" />
         <H1>All your files in one secure location, accessible anywhere.</H1>
         <Para>
           Fylo stores all your most important files in one secure location.

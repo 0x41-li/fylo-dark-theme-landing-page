@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <Container>
       <HeaderEl>
-        <a href="#">
+        <a href="#" aria-label="Go to the home page">
           <StyledLogo />
         </a>
         <nav>
