@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/fylo-dark-theme-landing-page/static/js/main.1db36a4f.js",
+    "main.js": "/fylo-dark-theme-landing-page/static/js/main.39712b49.js",
     "static/media/twitter-icon.svg": "/fylo-dark-theme-landing-page/static/media/twitter-icon.d2594093c8fdef40c222d15044a84e7e.svg",
     "static/media/hero-illustration.png": "/fylo-dark-theme-landing-page/static/media/hero-illustration.4c0c40842ce745f376e8.png",
     "static/media/second-section-illustration.png": "/fylo-dark-theme-landing-page/static/media/second-section-illustration.2c1282a78d268a5061ff.png",
@@ -20,9 +20,9 @@
     "static/media/location-icon.svg": "/fylo-dark-theme-landing-page/static/media/location-icon.4b95d6a228f2664f198babf73a8aaf38.svg",
     "static/media/mail-icon.svg": "/fylo-dark-theme-landing-page/static/media/mail-icon.a2a92ed0825961b423aaff9941f4a5a8.svg",
     "static/media/arrow-right.svg": "/fylo-dark-theme-landing-page/static/media/arrow-right.5ea2d3f3c714d318d842007d2ff1296f.svg",
-    "main.1db36a4f.js.map": "/fylo-dark-theme-landing-page/static/js/main.1db36a4f.js.map"
+    "main.39712b49.js.map": "/fylo-dark-theme-landing-page/static/js/main.39712b49.js.map"
   },
   "entrypoints": [
-    "static/js/main.1db36a4f.js"
+    "static/js/main.39712b49.js"
   ]
 }
